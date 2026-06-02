@@ -8,7 +8,7 @@ finding fun tech<br>generally vibe coding
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=EcstaticTech641&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=EcstaticTech641&theme=shadow_blue&hide_border=false" width="480" />
+  <img src="https://streak-stats.demolab.com/?user=EcstaticTech641&theme=shadow_blue&hide_border=false" width="440" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EcstaticTech641&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
