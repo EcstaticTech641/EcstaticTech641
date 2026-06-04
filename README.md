@@ -24,7 +24,6 @@
   </p>
 </details>
 
-<br/>
 <details open>
   <summary>📊 GitHub Stats</summary>
 
@@ -36,4 +35,3 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EcstaticTech641&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 </details>
-<br/>
