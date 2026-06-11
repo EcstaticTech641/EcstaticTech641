@@ -1,12 +1,12 @@
 ![Header](./github-header-banner.png)
-<details open>
+<details>
   <summary>🐉 About Me:</summary>
 
   finding fun tech  
   generally vibe coding
 </details>
 
-<details open>
+<details>
   <summary>💻 Tech Stack:</summary>
 
   <p align="center">
