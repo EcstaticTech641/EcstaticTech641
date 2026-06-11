@@ -25,7 +25,7 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary>📊 GitHub Stats</summary>
 
 <p align="center">
